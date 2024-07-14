@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi!
+
+After 6+ years as a data analyst, I recently left my job to focus on the next chapter of my career in machine learning. I have spent my career to date measuring product usage and business performance to inform business decisions, as well as enhancing internal data quality and usability through analytics engineering. Upon completing my Masters in Data Science in summer 2024, I’m looking forward to creating value with data in new ways by expanding my skill set in predictive and prescriptive analytics.
 
 <!--
 **nfeifel/nfeifel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
