@@ -1,4 +1,4 @@
-## H! My name is Nathan Feifel
+## Hi! My name is Nathan Feifel
 
 Here's a litle bit about me:
 
