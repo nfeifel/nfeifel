@@ -1,18 +1,19 @@
-## Hi!
+## H! My name is Nathan Feifel
 
-After 6+ years as a data analyst, I recently left my job to focus on the next chapter of my career in machine learning. I have spent my career to date measuring product usage and business performance to inform business decisions, as well as enhancing internal data quality and usability through analytics engineering. Upon completing my Masters in Data Science in summer 2024, I’m looking forward to creating value with data in new ways by expanding my skill set in predictive and prescriptive analytics.
+Here's a litle bit about me:
+
+- 🔭 I’m currently working on transitioning from a data analyst into a machine learning role
+- 👷 My personal analytics projects can be found [here](https://github.com/nfeifel/analytics)
+- 💬 Always down to talk about music, wine, and travel
+- 👯 I’m looking to learn more about the environment and climate, and how data+analytics can be used to create value in this area
+- 👷 Career overview: [Linkedin profile](https://www.linkedin.com/in/nathan-feifel-80aba4119)
+- 📫 How to reach me: nathanhfeifel@gmail.com
+- 🏠 I live in NYC
+
 
 <!--
 **nfeifel/nfeifel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
