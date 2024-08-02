@@ -1,6 +1,4 @@
-## Hi! My name is Nathan Feifel
-
-Here's a litle bit about me:
+## Here's a litle bit about me:
 
 - 🔭 I’m currently working on transitioning from a data analyst into a machine learning role
 - 👷 My personal analytics projects can be found [here](https://github.com/nfeifel/analytics)
