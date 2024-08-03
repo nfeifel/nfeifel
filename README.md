@@ -1,7 +1,7 @@
 ## Here's a litle bit about me:
 
 - 🔭 I’m currently working on transitioning from a data analyst to a machine learning role
-- 👷 My personal analytics projects can be found [here](https://github.com/nfeifel/analytics)
+- 👷 [Here](https://github.com/nfeifel/analytics) is a link to my personal analytics projects ([this one](https://github.com/nfeifel/analytics/tree/master/projects/kanye_stock_market_correlation) probably remains my favorite)
 - 💬 Always down to talk about music, wine, and travel
 - 👯 I’m looking to learn more about the environment and climate, and how data+analytics can be used to create value there
 - 👷 Career overview: [Linkedin profile](https://www.linkedin.com/in/nathan-feifel-80aba4119)
