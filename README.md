@@ -1,6 +1,6 @@
 ## Here's a litle bit about me:
 
-- 🔭 I’m currently working on transitioning from a data analyst into a machine learning role
+- 🔭 I’m currently working on transitioning from a data analyst to a machine learning role
 - 👷 My personal analytics projects can be found [here](https://github.com/nfeifel/analytics)
 - 💬 Always down to talk about music, wine, and travel
 - 👯 I’m looking to learn more about the environment and climate, and how data+analytics can be used to create value there
