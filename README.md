@@ -1,4 +1,4 @@
-## Here's a litle bit about me:
+## Here's a little bit about me:
 
 - 🔭 I’m currently working on transitioning from a data analyst to a machine learning role
 - 👷 [Here](https://github.com/nfeifel/analytics) is a link to my personal analytics projects ([this one](https://github.com/nfeifel/analytics/tree/master/projects/kanye_stock_market_correlation) probably remains my favorite)
